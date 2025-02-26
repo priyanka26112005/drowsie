@@ -58,7 +58,6 @@ PyQt5-Qt5==5.15.2
 PyQt5_sip==12.15.0
 pytesseract==0.3.13
 python-dateutil==2.9.0.post0
-
 pytz==2024.2
 requests==2.32.3
 rich==13.9.2
@@ -69,9 +68,8 @@ sklearn==0.0
 sympy==1.13.1
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0
+tensorflow==2.10.0
 tensorflow-io-gcs-filesystem==0.31.0
-tensorflow_intel==2.18.0
 tensorflow_keras==0.1
 termcolor==2.5.0
 tesseract==0.1.3
